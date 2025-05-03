@@ -1,8 +1,6 @@
-Certainly! Here's a comprehensive `README.md` file tailored for your [calculator---project](https://github.com/AnanyaMishra09/calculator---project) repository:
 
----
 
-```markdown
+```
 # 🌌 Neuromorphic Calculator
 
 A beautiful, responsive calculator designed with CSS neuromorphism effects and a stunning night sky background. This project combines modern design aesthetics with functional simplicity, making it both visually appealing and user-friendly.
